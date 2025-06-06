@@ -68,10 +68,11 @@ margin-top: 30px;
 /* Responsividade */
 @media (max-width: 600px){
 nav ul { 
+    flex-direction: column; 
+
 }
 
-flex-direction: column; 
-
+}
 
 nav ul li { 
 margin: 10px 0; 
@@ -79,7 +80,7 @@ margin: 10px 0;
 main { 
 padding: 5px; 
 }
-}
+
 
 
 
