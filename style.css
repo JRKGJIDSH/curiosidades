@@ -81,10 +81,13 @@ main {
 padding: 5px; 
 }
 
-nav ul li a:hover {
-color: #ffcc8B;
+nav ul li a {
+color: white;
+text-decoration: none;
+transition: color 0.3s;
 }
-
+nav ul li a:hover {
+color: #ffccle; }
 
 
 
