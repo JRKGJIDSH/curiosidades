@@ -6,6 +6,16 @@ box-sizing:border-box;
 }
 
 body{
+}
+
+header{
+ background-color: #0077cc;
+color:white;
+}
+
+header{
+ background-color: #0077cc;
+color:white;
 font-family:Arial, sans-serif;
 line-height:1.6;
 background-color: #f4f4f4;
