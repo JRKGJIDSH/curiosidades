@@ -81,7 +81,9 @@ main {
 padding: 5px; 
 }
 
-
+nav ul li a:hover {
+color: #ffcc8B;
+}
 
 
 
